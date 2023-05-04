@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+    font-size: 1em;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+textarea {
+    border: none;
+    outline: none;
+    width: 100%;
+    resize: none;
+}
